@@ -1,0 +1,14 @@
+[{
+    "id": 1,
+    "age": 30,
+    "img": "https://i.pravatar.cc/300",
+    "name": "Fabian",
+    "specialty": "General"
+},
+{
+    "id": 2,
+    "age": 30,
+    "img": "https://i.pravatar.cc/300",
+    "name": "Marta",
+    "specialty": "Psiquatra"
+}]
